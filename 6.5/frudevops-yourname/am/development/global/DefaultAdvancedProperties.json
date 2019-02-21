@@ -113,6 +113,7 @@
     "openam.cdm.default.charset" : "UTF-8",
     "com.sun.identity.session.repository.enableEncryption" : false,
     "com.sun.identity.password.deploymentDescriptor" : "%SERVER_URI%",
+    "com.sun.identity.server.fqdnMap[third.example.com]" : "third.example.com",
     "com.iplanet.am.session.agentSessionIdleTime" : "0",
     "com.sun.identity.monitoring.local.conn.server.url" : "service:jmx:rmi://",
     "com.iplanet.am.console.protocol" : "%SERVER_PROTO%",
