@@ -121,6 +121,7 @@
     "com.iplanet.am.lbcookie.name" : "amlbcookie",
     "com.sun.identity.server.fqdnMap[subscribers.example.com]" : "subscribers.example.com",
     "org.forgerock.openam.httpclienthandler.system.proxy.enabled" : false,
+    "com.sun.identity.server.fqdnMap[fourth]" : "fourth",
     "openam.retained.http.headers" : "X-DSAMEVersion"
   }
 }

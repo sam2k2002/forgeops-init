@@ -21,7 +21,7 @@
     "sslEnabled" : false,
     "usersBaseDn" : "ou=identities",
     "bindPassword" : null,
-    "bindPassword-encrypted" : "AAAAA0FFUwIQ5g45Q/uLQ82w9yXclKFqVSXUuEPo1kbXxD5iPaNAeP8rtt++G3tcVQ==",
+    "bindPassword-encrypted" : "AAAAA0FFUwIQvcfQDZDH03fFQQ6K1igmzQ6KlXuNisJfupY7w9lpGytZ3t53Vkf/mA==",
     "connectionPoolMaximumSize" : 10,
     "policyHeartbeatTimeUnit" : "SECONDS",
     "maximumSearchResults" : 100,
